@@ -293,13 +293,13 @@ st.title(f"🌫️ Air Pollution Cost-of-Illness Study — {city_name}")
 st.caption("A multi-phase economic assessment framework based on COI methodology, GBD 2019 exposure-response functions, and NCAP policy evaluation.")
 
 tabs = st.tabs([
-    "📊 Phase 1 · Air Quality",
-    "🦠 Phase 2 · Disease Burden",
-    "🏥 Phase 3 · Direct Costs",
-    "💼 Phase 4 · Indirect Costs",
-    "💰 Phase 5 · Total Burden",
-    "📋 Phase 6 · NCAP Evaluation",
-    "📈 Phase 7 · Econometric",
+    "Phase 1 · Air Quality",
+    "Phase 2 · Disease Burden",
+    "Phase 3 · Direct Costs",
+    "Phase 4 · Indirect Costs",
+    "Phase 5 · Total Burden",
+    "Phase 6 · NCAP Evaluation",
+    "Phase 7 · Econometric",
 ])
 
 # ─── TAB 1: Air Quality ──────────────────────────────────────────────────────
